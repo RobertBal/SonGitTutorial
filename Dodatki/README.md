@@ -1,3 +1,3 @@
-#MATERIAŁY
-*jeden
-*dwa
+# MATERIAŁY
+* jeden
+* dwa
