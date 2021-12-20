@@ -1,3 +1,3 @@
 # MATERIAŁY
-* jeden
-* dwa
+** jeden
+** https://git-scm.com : gitcom
