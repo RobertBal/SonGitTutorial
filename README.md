@@ -8,7 +8,7 @@ a teraz link [interia](https://www.interia.pl)
 2. [x]Wstep  
 3. [x]Jak korzystac z dodatków  
 4. [x]Instalacja i Konfiguracja  
-
+5. [x]O co chodzi
 ##Powiązane kursy
 |Nazwa kursu|Adres Url|Poziom Kursu|
 |-----------|---------|-----------|
