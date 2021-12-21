@@ -9,7 +9,7 @@ a teraz link [interia](https://www.interia.pl)
 3. [x]Jak korzystac z dodatków  
 4. [x]Instalacja i Konfiguracja  
 5. [x]O co chodzi
-6. [x]Dodano nowy branch 
+6. [x]Dodano nowy branch   
 ##Powiązane kursy
 |Nazwa kursu|Adres Url|Poziom Kursu|
 |-----------|---------|-----------|
